@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dutch's Mod Installer/1.0.0": {
+        "runtime": {
+          "Dutch's Mod Installer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dutch's Mod Installer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

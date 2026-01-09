@@ -1,0 +1,16 @@
+C:\Users\Gebruiker\source\repos\DutchModInstaller\Dutch's Mod Installer\bin\Debug\net8.0-windows\Dutch's Mod Installer.exe
+C:\Users\Gebruiker\source\repos\DutchModInstaller\Dutch's Mod Installer\bin\Debug\net8.0-windows\Dutch's Mod Installer.deps.json
+C:\Users\Gebruiker\source\repos\DutchModInstaller\Dutch's Mod Installer\bin\Debug\net8.0-windows\Dutch's Mod Installer.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\DutchModInstaller\Dutch's Mod Installer\bin\Debug\net8.0-windows\Dutch's Mod Installer.dll
+C:\Users\Gebruiker\source\repos\DutchModInstaller\Dutch's Mod Installer\bin\Debug\net8.0-windows\Dutch's Mod Installer.pdb
+C:\Users\Gebruiker\source\repos\DutchModInstaller\Dutch's Mod Installer\obj\Debug\net8.0-windows\Dutch_s_Mod_Installer.Form1.resources
+C:\Users\Gebruiker\source\repos\DutchModInstaller\Dutch's Mod Installer\obj\Debug\net8.0-windows\Dutch's Mod Installer.csproj.GenerateResource.cache
+C:\Users\Gebruiker\source\repos\DutchModInstaller\Dutch's Mod Installer\obj\Debug\net8.0-windows\Dutch's Mod Installer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\source\repos\DutchModInstaller\Dutch's Mod Installer\obj\Debug\net8.0-windows\Dutch's Mod Installer.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\DutchModInstaller\Dutch's Mod Installer\obj\Debug\net8.0-windows\Dutch's Mod Installer.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\DutchModInstaller\Dutch's Mod Installer\obj\Debug\net8.0-windows\Dutch's Mod Installer.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\DutchModInstaller\Dutch's Mod Installer\obj\Debug\net8.0-windows\Dutch's Mod Installer.dll
+C:\Users\Gebruiker\source\repos\DutchModInstaller\Dutch's Mod Installer\obj\Debug\net8.0-windows\refint\Dutch's Mod Installer.dll
+C:\Users\Gebruiker\source\repos\DutchModInstaller\Dutch's Mod Installer\obj\Debug\net8.0-windows\Dutch's Mod Installer.pdb
+C:\Users\Gebruiker\source\repos\DutchModInstaller\Dutch's Mod Installer\obj\Debug\net8.0-windows\Dutch's Mod Installer.genruntimeconfig.cache
+C:\Users\Gebruiker\source\repos\DutchModInstaller\Dutch's Mod Installer\obj\Debug\net8.0-windows\ref\Dutch's Mod Installer.dll
